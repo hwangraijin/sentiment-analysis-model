@@ -1,0 +1,8 @@
+{
+  "model_name": "sentiment_analysis_model",
+  "classifier": "LogisticRegression",
+  "vectorizer": "CountVectorizer",
+  "training_data_size": 500,
+  "input_data_format": "text",
+  "output_data_format": "label"
+}

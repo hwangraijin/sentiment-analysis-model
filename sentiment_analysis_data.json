@@ -1,0 +1,7 @@
+[
+  {"text": "Pretty decent.", "sentiment": "positive"},
+  {"text": "Not good at all.", "sentiment": "negative"},
+  {"text": "Absolutely fantastic!", "sentiment": "positive"},
+  {"text": "This is amazing!", "sentiment": "positive"},
+  {"text": "Worst ever!", "sentiment": "negative"}
+]

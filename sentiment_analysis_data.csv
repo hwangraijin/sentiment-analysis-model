@@ -1,0 +1,6 @@
+text,sentiment
+"Pretty decent.",positive
+"Not good at all.",negative
+"Absolutely fantastic!",positive
+"This is amazing!",positive
+"Worst ever!",negative
